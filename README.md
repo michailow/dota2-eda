@@ -1,11 +1,8 @@
-# DotA 2 Exploratory data analysis
-Data Science project about MOBA game.<br>
+# DotA 2 Exploratory Data Analysis
+Data Science project about MOBA game. Analyzing 50k ranked matches<br>
 >5 years since I started doing Data Science, so there should be something special
 
-In middle of development.
-Plans:
-1. Game inspiration on 5 minutes and see main reasons why cetain teams could win
-2. Write ML model to predict that
-3. Add more insight with visualisation tools.
-
-Project I this could take more that 1 week (05.06.2023)
+Project presented in 2 `/notebooks`:<br>
+`dota2_eda.ipynb`: First part dedicated to Data Storitelling with descriptive analysis, visualisation and getting insights from data.<br>
+`dota2_predict.ipynb`: Second is about ML.<br>
+Data should be in `/archive` folder that is taked from [here](https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches).
